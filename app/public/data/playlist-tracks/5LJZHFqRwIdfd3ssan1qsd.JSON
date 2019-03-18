@@ -1,0 +1,247 @@
+{
+  "tracks": {
+    "items": [
+      {
+        "track": {
+          "album": {
+            "name": "태양의 후예 (Original Television Soundtrack), Pt. 1"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+              },
+              "href": "https://api.spotify.com/v1/artists/1Do4bSzfUl0KWL9r1fITu0",
+              "id": "1Do4bSzfUl0KWL9r1fITu0",
+              "name": "Yoon Mirae",
+              "type": "artist",
+              "uri": "spotify:artist:1Do4bSzfUl0KWL9r1fITu0"
+            }
+          ],
+          "id": "7BfQtUagX8OMgYSKotIV5Q",
+          "name": "ALWAYS"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "태양의 후예 (Original Television Soundtrack), Pt. 1"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+              },
+              "href": "https://api.spotify.com/v1/artists/1Do4bSzfUl0KWL9r1fITu0",
+              "id": "1Do4bSzfUl0KWL9r1fITu0",
+              "name": "Yoon Mirae",
+              "type": "artist",
+              "uri": "spotify:artist:1Do4bSzfUl0KWL9r1fITu0"
+            }
+          ],
+          "id": "7GcBjbXEfORmHVAinwwqPg",
+          "name": "ALWAYS (Instrumental)"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "태양의 후예 (Original Television Soundtrack), Pt. 2"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+              },
+              "href": "https://api.spotify.com/v1/artists/0UEP2XBR9aC5NBKcAKnBIq",
+              "id": "0UEP2XBR9aC5NBKcAKnBIq",
+              "name": "CHEN",
+              "type": "artist",
+              "uri": "spotify:artist:0UEP2XBR9aC5NBKcAKnBIq"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+              },
+              "href": "https://api.spotify.com/v1/artists/2FgZrgTMX6Sk0VNcOsEPmm",
+              "id": "2FgZrgTMX6Sk0VNcOsEPmm",
+              "name": "Punch",
+              "type": "artist",
+              "uri": "spotify:artist:2FgZrgTMX6Sk0VNcOsEPmm"
+            }
+          ],
+          "id": "1UxYNCzvOgMMMvzQe66NIY",
+          "name": "Everytime"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "정규 4집 '꽃'(4Th Flower)"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM"
+              },
+              "href": "https://api.spotify.com/v1/artists/5F0ZKImhec2HLnFQzsl1CM",
+              "id": "5F0ZKImhec2HLnFQzsl1CM",
+              "name": "Coffeeboy",
+              "type": "artist",
+              "uri": "spotify:artist:5F0ZKImhec2HLnFQzsl1CM"
+            }
+          ],
+          "id": "67RbHZzCpsK2QvZBs0qgOd",
+          "name": "찾았다 Found"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "A"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+              },
+              "href": "https://api.spotify.com/v1/artists/4Kxlr1PRlDKEB0ekOCyHgX",
+              "id": "4Kxlr1PRlDKEB0ekOCyHgX",
+              "name": "BIGBANG",
+              "type": "artist",
+              "uri": "spotify:artist:4Kxlr1PRlDKEB0ekOCyHgX"
+            }
+          ],
+          "id": "0BU2OFDU7NvV7zza77F2YN",
+          "name": "BANG BANG BANG"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "정규 4집 '꽃'(4Th Flower)"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM"
+              },
+              "href": "https://api.spotify.com/v1/artists/5F0ZKImhec2HLnFQzsl1CM",
+              "id": "5F0ZKImhec2HLnFQzsl1CM",
+              "name": "Coffeeboy",
+              "type": "artist",
+              "uri": "spotify:artist:5F0ZKImhec2HLnFQzsl1CM"
+            }
+          ],
+          "id": "67RbHZzCpsK2QvZBs0qgOd",
+          "name": "찾았다 Found"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "E"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+              },
+              "href": "https://api.spotify.com/v1/artists/4Kxlr1PRlDKEB0ekOCyHgX",
+              "id": "4Kxlr1PRlDKEB0ekOCyHgX",
+              "name": "BIGBANG",
+              "type": "artist",
+              "uri": "spotify:artist:4Kxlr1PRlDKEB0ekOCyHgX"
+            }
+          ],
+          "id": "4pwtsRdCFNse3U1lWLG2W1",
+          "name": "Let's not fall in love"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Anime Music Collection Piano Solo Vol.1"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3UX79kbvgAEhCSbA8HVv7W"
+              },
+              "href": "https://api.spotify.com/v1/artists/3UX79kbvgAEhCSbA8HVv7W",
+              "id": "3UX79kbvgAEhCSbA8HVv7W",
+              "name": "Kenzie Smith Piano",
+              "type": "artist",
+              "uri": "spotify:artist:3UX79kbvgAEhCSbA8HVv7W"
+            }
+          ],
+          "id": "1obpObuxRSA1fI7OJVOd1d",
+          "name": "Toradora! - Lost My Pieces"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Descendants Of The Sun (Original Television Soundtrack) Pt.6"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+              },
+              "href": "https://api.spotify.com/v1/artists/1XNC9ksvgXeD1xRJruSA5t",
+              "id": "1XNC9ksvgXeD1xRJruSA5t",
+              "name": "K.Will",
+              "type": "artist",
+              "uri": "spotify:artist:1XNC9ksvgXeD1xRJruSA5t"
+            }
+          ],
+          "id": "5NkpsRKvSBukdYQtl3WLZW",
+          "name": "Talk Love"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "YES or YES"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+              },
+              "href": "https://api.spotify.com/v1/artists/7n2Ycct7Beij7Dj7meI4X0",
+              "id": "7n2Ycct7Beij7Dj7meI4X0",
+              "name": "TWICE",
+              "type": "artist",
+              "uri": "spotify:artist:7n2Ycct7Beij7Dj7meI4X0"
+            }
+          ],
+          "id": "1S6zXoXhfalX2ETKo337Md",
+          "name": "YES or YES"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "twicetagram"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+              },
+              "href": "https://api.spotify.com/v1/artists/7n2Ycct7Beij7Dj7meI4X0",
+              "id": "7n2Ycct7Beij7Dj7meI4X0",
+              "name": "TWICE",
+              "type": "artist",
+              "uri": "spotify:artist:7n2Ycct7Beij7Dj7meI4X0"
+            }
+          ],
+          "id": "4g7hiqTP5eXt75XU5WSMMA",
+          "name": "LIKEY"
+        }
+      }
+    ]
+  }
+}

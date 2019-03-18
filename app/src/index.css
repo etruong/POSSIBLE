@@ -1,0 +1,25 @@
+body, .jumbotron, .input-group {
+  background-color: #000000;
+  color: white;
+}
+
+.input-group {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sub-heading, .header {
+  color: #1db954;
+}
+
+.btn {
+  background-color: #1db954;
+  color: black;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn:hover {
+  color: white;
+}

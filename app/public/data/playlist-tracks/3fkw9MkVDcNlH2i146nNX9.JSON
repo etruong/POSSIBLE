@@ -1,0 +1,919 @@
+{
+  "tracks": {
+    "items": [
+      {
+        "track": {
+          "album": {
+            "name": "Begin To Hope (Special Edition)"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
+              },
+              "href": "https://api.spotify.com/v1/artists/3z6Gk257P9jNcZbBXJNX5i",
+              "id": "3z6Gk257P9jNcZbBXJNX5i",
+              "name": "Regina Spektor",
+              "type": "artist",
+              "uri": "spotify:artist:3z6Gk257P9jNcZbBXJNX5i"
+            }
+          ],
+          "id": "7IUBNrgkUH8XzlEWTOb1Qc",
+          "name": "Better"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Begin To Hope (Special Edition)"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
+              },
+              "href": "https://api.spotify.com/v1/artists/3z6Gk257P9jNcZbBXJNX5i",
+              "id": "3z6Gk257P9jNcZbBXJNX5i",
+              "name": "Regina Spektor",
+              "type": "artist",
+              "uri": "spotify:artist:3z6Gk257P9jNcZbBXJNX5i"
+            }
+          ],
+          "id": "6GskIhdM6TN6EkPgeSjVfW",
+          "name": "Fidelity"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Born To Die - The Paradise Edition"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+              },
+              "href": "https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa",
+              "id": "00FQb4jTyendYWaN8pK0wa",
+              "name": "Lana Del Rey",
+              "type": "artist",
+              "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa"
+            }
+          ],
+          "id": "2dBwB667LHQkLhdYlwLUZK",
+          "name": "Summertime Sadness"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "The Chronicles of Narnia: Prince Caspian"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
+              },
+              "href": "https://api.spotify.com/v1/artists/3z6Gk257P9jNcZbBXJNX5i",
+              "id": "3z6Gk257P9jNcZbBXJNX5i",
+              "name": "Regina Spektor",
+              "type": "artist",
+              "uri": "spotify:artist:3z6Gk257P9jNcZbBXJNX5i"
+            }
+          ],
+          "id": "3iaVEXfUcVvIss4oVnxSX3",
+          "name": "The Call - Soundtrack"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "#3"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+              },
+              "href": "https://api.spotify.com/v1/artists/3AQRLZ9PuTAozP28Skbq8V",
+              "id": "3AQRLZ9PuTAozP28Skbq8V",
+              "name": "The Script",
+              "type": "artist",
+              "uri": "spotify:artist:3AQRLZ9PuTAozP28Skbq8V"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+              },
+              "href": "https://api.spotify.com/v1/artists/085pc2PYOi8bGKj0PNjekA",
+              "id": "085pc2PYOi8bGKj0PNjekA",
+              "name": "will.i.am",
+              "type": "artist",
+              "uri": "spotify:artist:085pc2PYOi8bGKj0PNjekA"
+            }
+          ],
+          "id": "1X1DWw2pcNZ8zSub3uhlNz",
+          "name": "Hall of Fame"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "The Blessed Unrest"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+              },
+              "href": "https://api.spotify.com/v1/artists/2Sqr0DXoaYABbjBo9HaMkM",
+              "id": "2Sqr0DXoaYABbjBo9HaMkM",
+              "name": "Sara Bareilles",
+              "type": "artist",
+              "uri": "spotify:artist:2Sqr0DXoaYABbjBo9HaMkM"
+            }
+          ],
+          "id": "6Uy6K3KdmUdAfelUp0SeXn",
+          "name": "Brave"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Everything All The Time"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+              },
+              "href": "https://api.spotify.com/v1/artists/0OdUWJ0sBjDrqHygGUXeCF",
+              "id": "0OdUWJ0sBjDrqHygGUXeCF",
+              "name": "Band of Horses",
+              "type": "artist",
+              "uri": "spotify:artist:0OdUWJ0sBjDrqHygGUXeCF"
+            }
+          ],
+          "id": "4o0NjemqhmsYLIMwlcosvW",
+          "name": "The Funeral"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "lovestrong."
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+              },
+              "href": "https://api.spotify.com/v1/artists/7H55rcKCfwqkyDFH9wpKM6",
+              "id": "7H55rcKCfwqkyDFH9wpKM6",
+              "name": "Christina Perri",
+              "type": "artist",
+              "uri": "spotify:artist:7H55rcKCfwqkyDFH9wpKM6"
+            }
+          ],
+          "id": "0HZhYMZOcUzZKSFwPOti6m",
+          "name": "Jar of Hearts"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Grey's Anatomy"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
+              },
+              "href": "https://api.spotify.com/v1/artists/5yV1qdnmxyIYiSFB02wpDj",
+              "id": "5yV1qdnmxyIYiSFB02wpDj",
+              "name": "The Postal Service",
+              "type": "artist",
+              "uri": "spotify:artist:5yV1qdnmxyIYiSFB02wpDj"
+            }
+          ],
+          "id": "3dvXyaVodJRqzwxzzTX8DS",
+          "name": "Such Great Heights"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Eyes Open"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+              },
+              "href": "https://api.spotify.com/v1/artists/3rIZMv9rysU7JkLzEaC5Jp",
+              "id": "3rIZMv9rysU7JkLzEaC5Jp",
+              "name": "Snow Patrol",
+              "type": "artist",
+              "uri": "spotify:artist:3rIZMv9rysU7JkLzEaC5Jp"
+            }
+          ],
+          "id": "11bD1JtSjlIgKgZG2134DZ",
+          "name": "Chasing Cars"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Stairwells"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+              },
+              "href": "https://api.spotify.com/v1/artists/7h4j9YTJJuAHzLCc3KCvYu",
+              "id": "7h4j9YTJJuAHzLCc3KCvYu",
+              "name": "Kina Grannis",
+              "type": "artist",
+              "uri": "spotify:artist:7h4j9YTJJuAHzLCc3KCvYu"
+            }
+          ],
+          "id": "52UUUJnBvaEX4LtEbtJgUI",
+          "name": "In Your Arms"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "New Acoustic Sessions"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+              },
+              "href": "https://api.spotify.com/v1/artists/7h4j9YTJJuAHzLCc3KCvYu",
+              "id": "7h4j9YTJJuAHzLCc3KCvYu",
+              "name": "Kina Grannis",
+              "type": "artist",
+              "uri": "spotify:artist:7h4j9YTJJuAHzLCc3KCvYu"
+            }
+          ],
+          "id": "6UluzJStuOfZEQXTP3w6R9",
+          "name": "Fast Car (feat. Kina Grannis)"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "The Best Imitation Of Myself: A Retrospective"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu"
+              },
+              "href": "https://api.spotify.com/v1/artists/55tif8708yyDQlSjh3Trdu",
+              "id": "55tif8708yyDQlSjh3Trdu",
+              "name": "Ben Folds",
+              "type": "artist",
+              "uri": "spotify:artist:55tif8708yyDQlSjh3Trdu"
+            }
+          ],
+          "id": "5OLSqW2bh31gOOMg8NqdpQ",
+          "name": "The Luckiest"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "4clR5EcbpUs3cBL2otYuQP",
+          "name": "Song for Sienna"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "1r86W1w1PkxbCAAKNtcK8Z",
+          "name": "Dream of Flying"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "4DAcKoKDd2i7bhwHUEwwuB",
+          "name": "Wind"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "4EqawGXaFoqigqx9CTgGbh",
+          "name": "Rain"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "6pUyDY0SHxHyd8WHZabeKD",
+          "name": "Finding Home"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "6E7ucgXkSKAXBkRmAlG80D",
+          "name": "The Edge of a Petal"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "69krqvttp6suuKFCPBv16V",
+          "name": "Butterfly Waltz"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "1KFv7dwnBlpFi6Qk5NfQlY",
+          "name": "Song for Rome"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "5iaWmWxs6Mqcs7eiLlNJj2",
+          "name": "Fire"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "43rgBStO9Gn6I4o9HNrz0w",
+          "name": "Moonlit Shore"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "5sr724CvkpcAab6Ep2XerU",
+          "name": "Time Forgotten"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "4ZT6CUwafiaVDOCg6IpX8M",
+          "name": "A Love Story"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "1eQdT1HRtei5Nr8YQsBEJB",
+          "name": "A Walk in the Forest"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "3mpWlvAtDkmTNOabpARocN",
+          "name": "Lavender Hills"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "4ovlMttu23ValZnDQvwmYD",
+          "name": "Night Bird Song"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "6Zr5oKP0t43vU2le1rVYrj",
+          "name": "Northern Sky"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "0VMgUhiKI8FUzmSjoDXO6I",
+          "name": "Moonrise"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "1YcLrzoSP5z0QxuGItfw6T",
+          "name": "Falling Leaves"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "1lWRouhgDu4RrTLxY28Vrm",
+          "name": "Tenderness"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "0i3SGGts9bgBPXwVZF0E3D",
+          "name": "Picasso Blue"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "5nlzjC2Tl81ZmHreDTLHwc",
+          "name": "At the Ivy Gate"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "2IiVMy9BcizA3ympynClUT",
+          "name": "Solitary Hill"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "0VAGqY9ttSh4BVhibUq89y",
+          "name": "Dreams and Memories"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "26HQciZBED6qfGHwnEQv5T",
+          "name": "Kindred Spirits"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "0kM8MMvPHntvIUQkzJ6Yvx",
+          "name": "Andante Cantabile"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "3Cz25ORG9GmCdWOaTTZJM9",
+          "name": "Crimson Sky"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "3HXjiCpkNcAzVo2F0HiwqO",
+          "name": "Tears in the Fountain"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "1wBe7255vIMCJ7MlJ8lHCn",
+          "name": "Innocent Heart"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "0cxBhsNhZxHkeInIV6Fup6",
+          "name": "Morning Light"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Deep Focus Piano Study Playlist"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb"
+              },
+              "href": "https://api.spotify.com/v1/artists/6roo9MjIl9htSsX2Snnipb",
+              "id": "6roo9MjIl9htSsX2Snnipb",
+              "name": "Brian Crain",
+              "type": "artist",
+              "uri": "spotify:artist:6roo9MjIl9htSsX2Snnipb"
+            }
+          ],
+          "id": "4qX3Me0wP9NBdPXVT7RmRh",
+          "name": "Dream of Dreams"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "tracks": {
+    "items": [
+      {
+        "track": {
+          "album": {
+            "name": "Focus Your Brain - Deep Ambient Soundscapes Vol 1"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3eH6Y4vnHy8bIZ8XwtEhRR"
+              },
+              "href": "https://api.spotify.com/v1/artists/3eH6Y4vnHy8bIZ8XwtEhRR",
+              "id": "3eH6Y4vnHy8bIZ8XwtEhRR",
+              "name": "Russel F Jr",
+              "type": "artist",
+              "uri": "spotify:artist:3eH6Y4vnHy8bIZ8XwtEhRR"
+            }
+          ],
+          "id": "2u9vbtu5Vkg8osAqPHqD1w",
+          "name": "Coffee in Bed"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "The Tokyo Concert"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+              },
+              "href": "https://api.spotify.com/v1/artists/7nzSoJISlVJsn7O0yTeMOB",
+              "id": "7nzSoJISlVJsn7O0yTeMOB",
+              "name": "Joe Hisaishi",
+              "type": "artist",
+              "uri": "spotify:artist:7nzSoJISlVJsn7O0yTeMOB"
+            }
+          ],
+          "id": "5EWcBYfePistjwchTjLjzo",
+          "name": "Spirited Away - The Sixth Station"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Always with Me: Music from Miyazaki's Anime on Ocarina"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0YsRz2ysVsNVUAI9soBt35"
+              },
+              "href": "https://api.spotify.com/v1/artists/0YsRz2ysVsNVUAI9soBt35",
+              "id": "0YsRz2ysVsNVUAI9soBt35",
+              "name": "Heather Scott & Lan Sin Lim",
+              "type": "artist",
+              "uri": "spotify:artist:0YsRz2ysVsNVUAI9soBt35"
+            }
+          ],
+          "id": "7JfjAZK7Pm5QtYpDVfoJ1u",
+          "name": "The Merry-Go-Round of Life"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Anime Music Collection Piano Solo Vol.1"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3UX79kbvgAEhCSbA8HVv7W"
+              },
+              "href": "https://api.spotify.com/v1/artists/3UX79kbvgAEhCSbA8HVv7W",
+              "id": "3UX79kbvgAEhCSbA8HVv7W",
+              "name": "Kenzie Smith Piano",
+              "type": "artist",
+              "uri": "spotify:artist:3UX79kbvgAEhCSbA8HVv7W"
+            }
+          ],
+          "id": "1obpObuxRSA1fI7OJVOd1d",
+          "name": "Toradora! - Lost My Pieces"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Amelie from Montmartre"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+              },
+              "href": "https://api.spotify.com/v1/artists/00sazWvoTLOqg5MFwC68Um",
+              "id": "00sazWvoTLOqg5MFwC68Um",
+              "name": "Yann Tiersen",
+              "type": "artist",
+              "uri": "spotify:artist:00sazWvoTLOqg5MFwC68Um"
+            }
+          ],
+          "id": "2AkcjsKlRbIBYGAgpQVFii",
+          "name": "Comptine d'un autre été, l'après-midi"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Hisaishi Meets Miyazaki Films"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+              },
+              "href": "https://api.spotify.com/v1/artists/7nzSoJISlVJsn7O0yTeMOB",
+              "id": "7nzSoJISlVJsn7O0yTeMOB",
+              "name": "Joe Hisaishi",
+              "type": "artist",
+              "uri": "spotify:artist:7nzSoJISlVJsn7O0yTeMOB"
+            }
+          ],
+          "id": "5LQqc2rfmxKJY1kuCDM2ml",
+          "name": "Spirited Away - One Summer's Day"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "name": "Hyper Kawaii (25 Super-Cute Anime Classics)"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0PMGIDR5OQokTICRFbNdeB"
+              },
+              "href": "https://api.spotify.com/v1/artists/0PMGIDR5OQokTICRFbNdeB",
+              "id": "0PMGIDR5OQokTICRFbNdeB",
+              "name": "Anime Kei",
+              "type": "artist",
+              "uri": "spotify:artist:0PMGIDR5OQokTICRFbNdeB"
+            }
+          ],
+          "id": "4xxz2SWsCCvYokNTLri78c",
+          "name": "Howl's Moving Castle Theme (From 'Howl's Moving Castle')"
+        }
+      }
+    ]
+  }
+}

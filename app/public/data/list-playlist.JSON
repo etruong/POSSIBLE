@@ -1,0 +1,360 @@
+{
+    "href": "https://api.spotify.com/v1/users/1233291715/playlists?offset=0&limit=20",
+    "items": [
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/1TOyk5anePD4uZXRWX45bY"
+        },
+        "href": "https://api.spotify.com/v1/playlists/1TOyk5anePD4uZXRWX45bY",
+        "id": "1TOyk5anePD4uZXRWX45bY",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/2ef664ddec4958bc71ca20f3af7db80f64f6a7edec2a4fc2ebcbf260e4eafe6d71836b575ccd4f89f566598febbcaa5e073adb70f761998831dfb285fa37bd73dfd07104571ef4128b95f56acb561390",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/2ef664ddec4958bc71ca20f3af7db80f64f6a7edec2a4fc2ebcbf260e4eafe6d71836b575ccd4f89f566598febbcaa5e073adb70f761998831dfb285fa37bd73dfd07104571ef4128b95f56acb561390",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/2ef664ddec4958bc71ca20f3af7db80f64f6a7edec2a4fc2ebcbf260e4eafe6d71836b575ccd4f89f566598febbcaa5e073adb70f761998831dfb285fa37bd73dfd07104571ef4128b95f56acb561390",
+            "width": 60
+          }
+        ],
+        "name": "sad",
+        "owner": {
+          "display_name": "Elisa Truong",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/1233291715"
+          },
+          "href": "https://api.spotify.com/v1/users/1233291715",
+          "id": "1233291715",
+          "type": "user",
+          "uri": "spotify:user:1233291715"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "Nyw1OGQyNWViZGU1NGZjOGQxYzRkMWJlYWMxMDA0NTdmMTRlOWQ5NDk2",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/1TOyk5anePD4uZXRWX45bY/tracks",
+          "total": 6
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:1TOyk5anePD4uZXRWX45bY"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/3FGBdxQs15VdcTqvoaKXOZ"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3FGBdxQs15VdcTqvoaKXOZ",
+        "id": "3FGBdxQs15VdcTqvoaKXOZ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/098a3700b0dda61dc2c76cd8a15ebce975bce4cc0a01bbfac984fe3a55192aceea6c0fe9bf495c0932ed483d3971209e7c418edcda4e7d49bb31e9ace331fd3822f9691fbd707fb3e393bafd5fcf4b8a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/098a3700b0dda61dc2c76cd8a15ebce975bce4cc0a01bbfac984fe3a55192aceea6c0fe9bf495c0932ed483d3971209e7c418edcda4e7d49bb31e9ace331fd3822f9691fbd707fb3e393bafd5fcf4b8a",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/098a3700b0dda61dc2c76cd8a15ebce975bce4cc0a01bbfac984fe3a55192aceea6c0fe9bf495c0932ed483d3971209e7c418edcda4e7d49bb31e9ace331fd3822f9691fbd707fb3e393bafd5fcf4b8a",
+            "width": 60
+          }
+        ],
+        "name": "Runaway",
+        "owner": {
+          "display_name": "Elisa Truong",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/1233291715"
+          },
+          "href": "https://api.spotify.com/v1/users/1233291715",
+          "id": "1233291715",
+          "type": "user",
+          "uri": "spotify:user:1233291715"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NDksNmEyMzdhMTY5ZGFkMGRhZmQ0NDU5MTI0NmI4NjhkNWZjMzQwZjE2MQ==",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/3FGBdxQs15VdcTqvoaKXOZ/tracks",
+          "total": 48
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3FGBdxQs15VdcTqvoaKXOZ"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/3sssboiuJd61o8gnQynkGQ"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3sssboiuJd61o8gnQynkGQ",
+        "id": "3sssboiuJd61o8gnQynkGQ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/492ad4135d8f3fa9565e601b7aad95bf49865fb1a4555a7e6f8477aec6ad7c74550b9980b6cdb752cd98a2d4fe80e3d6bba89708609110c898e6b134ec323c827d7f49725e4f247c93dbdf806633be39",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/492ad4135d8f3fa9565e601b7aad95bf49865fb1a4555a7e6f8477aec6ad7c74550b9980b6cdb752cd98a2d4fe80e3d6bba89708609110c898e6b134ec323c827d7f49725e4f247c93dbdf806633be39",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/492ad4135d8f3fa9565e601b7aad95bf49865fb1a4555a7e6f8477aec6ad7c74550b9980b6cdb752cd98a2d4fe80e3d6bba89708609110c898e6b134ec323c827d7f49725e4f247c93dbdf806633be39",
+            "width": 60
+          }
+        ],
+        "name": "AddCSE",
+        "owner": {
+          "display_name": "Elisa Truong",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/1233291715"
+          },
+          "href": "https://api.spotify.com/v1/users/1233291715",
+          "id": "1233291715",
+          "type": "user",
+          "uri": "spotify:user:1233291715"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTEsODE2MmVjZDIxOGU1NDY4NDNkOGE0ZGVlZjdkODU3ZjRlODk2YTk5YQ==",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/3sssboiuJd61o8gnQynkGQ/tracks",
+          "total": 7
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3sssboiuJd61o8gnQynkGQ"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/1vssIO32AAnTpymZ9fP9dO"
+        },
+        "href": "https://api.spotify.com/v1/playlists/1vssIO32AAnTpymZ9fP9dO",
+        "id": "1vssIO32AAnTpymZ9fP9dO",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/05cca8019e768a812548a41da4b4c140c5685fc4be0209043ad4cf019e7530a783a5702f69162185c58756a8e73076b9b304f9abe7f35cb47278bfd8fb7e25e878e2cdc666dd78beb92b5f33bc5b5bcf",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/05cca8019e768a812548a41da4b4c140c5685fc4be0209043ad4cf019e7530a783a5702f69162185c58756a8e73076b9b304f9abe7f35cb47278bfd8fb7e25e878e2cdc666dd78beb92b5f33bc5b5bcf",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/05cca8019e768a812548a41da4b4c140c5685fc4be0209043ad4cf019e7530a783a5702f69162185c58756a8e73076b9b304f9abe7f35cb47278bfd8fb7e25e878e2cdc666dd78beb92b5f33bc5b5bcf",
+            "width": 60
+          }
+        ],
+        "name": "Ost. jealousy Incarnate",
+        "owner": {
+          "display_name": "suamel",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/suamel"
+          },
+          "href": "https://api.spotify.com/v1/users/suamel",
+          "id": "suamel",
+          "type": "user",
+          "uri": "spotify:user:suamel"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTUsNzRiOTA3NzAyM2JkZTg0NzExYzg0ZTBiYzAxZTUzOWYwZTg0MWMwMw==",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/1vssIO32AAnTpymZ9fP9dO/tracks",
+          "total": 8
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:1vssIO32AAnTpymZ9fP9dO"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/5LJZHFqRwIdfd3ssan1qsd"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5LJZHFqRwIdfd3ssan1qsd",
+        "id": "5LJZHFqRwIdfd3ssan1qsd",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/1f35e7efa144e4dd7dab754ae6d1a45e3e156eb532ad3cc97e855a1642e443b6e66866e150906ccfe2d221a4a5f9f4e484cdb3c304ff1617d928ed96ec323c827d7f49725e4f247c93dbdf806633be39",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/1f35e7efa144e4dd7dab754ae6d1a45e3e156eb532ad3cc97e855a1642e443b6e66866e150906ccfe2d221a4a5f9f4e484cdb3c304ff1617d928ed96ec323c827d7f49725e4f247c93dbdf806633be39",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/1f35e7efa144e4dd7dab754ae6d1a45e3e156eb532ad3cc97e855a1642e443b6e66866e150906ccfe2d221a4a5f9f4e484cdb3c304ff1617d928ed96ec323c827d7f49725e4f247c93dbdf806633be39",
+            "width": 60
+          }
+        ],
+        "name": "Foreign",
+        "owner": {
+          "display_name": "Elisa Truong",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/1233291715"
+          },
+          "href": "https://api.spotify.com/v1/users/1233291715",
+          "id": "1233291715",
+          "type": "user",
+          "uri": "spotify:user:1233291715"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTMsZmFmMTczMzI0ZGM0ZGEyZDY1ODVmMjFhM2RiMjg0NWFmMjQ2NTQyZQ==",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/5LJZHFqRwIdfd3ssan1qsd/tracks",
+          "total": 11
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5LJZHFqRwIdfd3ssan1qsd"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/7iWoqqj5qsQuZjMxV9ILRn"
+        },
+        "href": "https://api.spotify.com/v1/playlists/7iWoqqj5qsQuZjMxV9ILRn",
+        "id": "7iWoqqj5qsQuZjMxV9ILRn",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/4b7d658a10685e325c7bcea68f3fc1f04386c05d75833473a176f8f624692db27451eec8bbbf8aa177eb7c17cafe5503cac647e30f46e84f4e7216d198c5699709d8c2497f34a177d159e1b1733f25bb",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/4b7d658a10685e325c7bcea68f3fc1f04386c05d75833473a176f8f624692db27451eec8bbbf8aa177eb7c17cafe5503cac647e30f46e84f4e7216d198c5699709d8c2497f34a177d159e1b1733f25bb",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/4b7d658a10685e325c7bcea68f3fc1f04386c05d75833473a176f8f624692db27451eec8bbbf8aa177eb7c17cafe5503cac647e30f46e84f4e7216d198c5699709d8c2497f34a177d159e1b1733f25bb",
+            "width": 60
+          }
+        ],
+        "name": "Blake ",
+        "owner": {
+          "display_name": "Elisa Truong",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/1233291715"
+          },
+          "href": "https://api.spotify.com/v1/users/1233291715",
+          "id": "1233291715",
+          "type": "user",
+          "uri": "spotify:user:1233291715"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MjA2LDE2NWFlYzI1ZDUxYWRhZjUxYzliODdlM2Q1OGI1YWE3NjhhODAzMTk=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/7iWoqqj5qsQuZjMxV9ILRn/tracks",
+          "total": 194
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:7iWoqqj5qsQuZjMxV9ILRn"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZEVXbMDoHDwVN2tF"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXbMDoHDwVN2tF",
+        "id": "37i9dQZEVXbMDoHDwVN2tF",
+        "images": [
+          {
+            "height": null,
+            "url": "https://charts-images.scdn.co/REGIONAL_GLOBAL_DEFAULT.jpg",
+            "width": null
+          }
+        ],
+        "name": "Global Top 50",
+        "owner": {
+          "display_name": "spotifycharts",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotifycharts"
+          },
+          "href": "https://api.spotify.com/v1/users/spotifycharts",
+          "id": "spotifycharts",
+          "type": "user",
+          "uri": "spotify:user:spotifycharts"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NjA2MTM4OTY2LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXbMDoHDwVN2tF/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZEVXbMDoHDwVN2tF"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/3fkw9MkVDcNlH2i146nNX9"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3fkw9MkVDcNlH2i146nNX9",
+        "id": "3fkw9MkVDcNlH2i146nNX9",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/7baffe9e562e20354417504ba08eda976a1e4770a234693075f4c2b598e39b8fbc074408b22ffd5abec9cf62b41b43d8586e9c273a4070a338db506fc5577cec59b0a89fb536350eded3ff0b972a1595",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/7baffe9e562e20354417504ba08eda976a1e4770a234693075f4c2b598e39b8fbc074408b22ffd5abec9cf62b41b43d8586e9c273a4070a338db506fc5577cec59b0a89fb536350eded3ff0b972a1595",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/7baffe9e562e20354417504ba08eda976a1e4770a234693075f4c2b598e39b8fbc074408b22ffd5abec9cf62b41b43d8586e9c273a4070a338db506fc5577cec59b0a89fb536350eded3ff0b972a1595",
+            "width": 60
+          }
+        ],
+        "name": "Study Music",
+        "owner": {
+          "display_name": "Elisa Truong",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/1233291715"
+          },
+          "href": "https://api.spotify.com/v1/users/1233291715",
+          "id": "1233291715",
+          "type": "user",
+          "uri": "spotify:user:1233291715"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTgsZDVlMzQxM2JkYTIwZjljY2JlZDEyZTRiNzIzOGRiODQ0ZTgyZTk2ZQ==",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/3fkw9MkVDcNlH2i146nNX9/tracks",
+          "total": 43
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3fkw9MkVDcNlH2i146nNX9"
+      }
+    ],
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 8
+  }
