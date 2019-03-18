@@ -26,4 +26,4 @@ requests to the Spotify API.
 - Bootstrap
 
 ## View Site
-You can view the live version, hosted on GitHub here: link
+You can view the live version, hosted on GitHub here: https://etruong.github.io/POSSIBLE/
